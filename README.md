@@ -14,7 +14,11 @@ Este proyecto busca fusionar mi formación en estadística y análisis de datos 
 * **DAX:** Para la creación de medidas y columnas personalizadas (ej. cálculo de Margen de Crecimiento y agrupaciones lógicas).
 
 ## 📊 Vistas del Dashboard
-<img width="1276" height="713" alt="image" src="https://github.com/user-attachments/assets/a94db980-27bd-4897-91bb-f834a1e0d1ad" /> <img width="1276" height="710" alt="image" src="https://github.com/user-attachments/assets/96c12780-82a0-4cf9-b2f5-d35ef1fedcf4" /><img width="1275" height="714" alt="image" src="https://github.com/user-attachments/assets/2d008659-c28e-4872-b520-d0961b97e8df" /> <img width="1276" height="712" alt="image" src="https://github.com/user-attachments/assets/0ee72b60-4d5f-41f1-bbad-cf2f2700ff5e" />
+<img width="1337" height="743" alt="image" src="https://github.com/user-attachments/assets/51622a62-91b3-48c4-a34c-c571efe42dfb" /> <img width="1335" height="741" alt="image" src="https://github.com/user-attachments/assets/fe295671-03da-45e0-9370-6e51798d3c3f" /> <img width="1342" height="750" alt="image" src="https://github.com/user-attachments/assets/e53fe6c4-e2d8-425f-af05-40a9cbf80c34" /> <img width="1343" height="750" alt="image" src="https://github.com/user-attachments/assets/050a3c46-f557-47f1-8d85-d155cc407d2d" />
+
+
+
+
 
 ## 💡 Principales Descubrimientos (Insights)
 
